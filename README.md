@@ -1,2 +1,2 @@
 # sample
-this is sample repository for  testing
+this is Simple repository for  testing
