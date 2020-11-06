@@ -1,5 +1,1 @@
-V1.0
-i am in staging
-=======
-I am in GitHub
-
+Change of the text
